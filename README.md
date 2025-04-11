@@ -361,3 +361,6 @@ Please follow clean coding practices and document your contributions thoroughly.
 * **OWASP**: For their extensive resources on authentication best practices, including password management guidelines. [Authentication Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Authentication_Cheat_Sheet.html)
 * **NIST**: For publishing the SP 800-63B guidelines that inspired the password generation feature. [NIST SP 800-63B](https://pages.nist.gov/800-63-3/)
 * **Shannon Entropy Concept**: For providing the foundation for entropy calculation and understanding password randomness. [Wikipedia](https://en.wikipedia.org/wiki/Entropy_(information_theory))
+
+## License
+This project is licensed under the MIT License. You are free to use, modify, and distribute this software.
